@@ -23,3 +23,9 @@ print(f"Máximo: {maximo}")
 print(f"Mínimo: {minimo}")
 print(f"Promedio: {promedio:.2f}")
 print(f"Mediana: {mediana:.2f}")
+
+numero1 = 20
+numero2 = 10
+
+suma = numero1+numero2
+print(f"suma={suma}")
